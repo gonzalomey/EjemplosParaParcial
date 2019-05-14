@@ -1,0 +1,6 @@
+D:\VisualStudio\Mey.Gonzalo.2A\Mascota\bin\Debug\Mascota.dll
+D:\VisualStudio\Mey.Gonzalo.2A\Mascota\bin\Debug\Mascota.pdb
+D:\VisualStudio\Mey.Gonzalo.2A\Mascota\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Mey.Gonzalo.2A\Mascota\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mey.Gonzalo.2A\Mascota\obj\Debug\Mascota.dll
+D:\VisualStudio\Mey.Gonzalo.2A\Mascota\obj\Debug\Mascota.pdb

@@ -1,0 +1,10 @@
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\bin\Debug\TestMascotas.exe.config
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\bin\Debug\TestMascotas.exe
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\bin\Debug\TestMascotas.pdb
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\bin\Debug\Mascota.dll
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\bin\Debug\Mascota.pdb
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\obj\Debug\TestMascotas.csprojAssemblyReference.cache
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\obj\Debug\TestMascotas.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\obj\Debug\TestMascotas.csproj.CopyComplete
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\obj\Debug\TestMascotas.exe
+D:\VisualStudio\Mey.Gonzalo.2A\TestMascotas\obj\Debug\TestMascotas.pdb
